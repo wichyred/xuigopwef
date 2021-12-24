@@ -1,0 +1,23 @@
+.jumbotron {
+    padding: 1rem 1rem;
+    margin-bottom: 0rem;
+    background-color: #e9ecef;
+    margin: 0px 0px 20px 0px;
+    }
+table th {
+    background:black;
+    color: white;
+}
+
+.hide {
+    display:none;
+}
+
+.red {
+    color:Red;
+}
+
+#tablaSorteo_wrapper{
+    margin-bottom: 30px;
+}
+    
